@@ -1,7 +1,7 @@
 # KSF-CSS-Maps
 This is a list of all maps that are on the counter-strike source servers of KSF. The Maps are grouped in Tiers.
 
-**Tier 1**
+**Tier 1**  
 surf_ace\
 surf_aircontrol_ksf\
 surf_akai_final\
@@ -51,7 +51,7 @@ surf_whiteout\
 surf_year3000 \
 surf_zor
 
-**Tier 2**
+**Tier 2**  
 surf_004_fix  
 surf_4head  
 surf_6  
