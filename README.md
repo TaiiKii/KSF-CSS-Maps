@@ -8,11 +8,11 @@ surf_akai_final\
 surf_and_destroy_fix\
 surf_andromeda\
 surf_aser\
-surf_awp_sk337_v3\ 
-surf_beginner\ 
-surf_benevolent\ 
-surf_beyond\
-surf_borderlands\
+surf_awp_sk337_v3   
+surf_beginner  
+surf_benevolent   
+surf_beyond \
+surf_borderlands \
 surf_calycate2\
 surf_calzone\
 surf_chaos_fix\
@@ -20,7 +20,7 @@ surf_derpis_ksf\
 surf_egypt2\
 surf_flow_ksf \
 surf_forbidden_ways_ksf \
-surf_forgotten  \
+surf_forgotten\
 surf_fornax \
 surf_frost \
 surf_funhouse_v1 \
@@ -29,7 +29,7 @@ surf_kitsune \
 surf_leet_xl_beta7z \
 surf_legends\
 surf_lessons\
-surf_lovetunnel \ 
+surf_lovetunnel   
 surf_lux \
 surf_me \
 surf_mesa_fixed\
@@ -49,123 +49,123 @@ surf_utopia_njv \
 surf_water_run_ksf \
 surf_whiteout\
 surf_year3000 \
-surf_zor \
+surf_zor
 
 **Tier 2**
-surf_004_fix
-surf_4head
-surf_6
-surf_81st_network
-surf_aeron
-surf_aether
-surf_amplitude_encore
-surf_amplitude_light
-surf_annoyance_njv
-surf_aqua_fix
-surf_ardon_fix
-surf_beginner2
-surf_believe
-surf_beverages_remix
-surf_bluewall_v2
-surf_boring
-surf_cavemissile_fix
-surf_classics
-surf_classics2
-surf_commune_beta11
-surf_crzyfrog_reloaded
-surf_cyberwave
-surf_delight
-surf_delusional
-surf_domain
-surf_doodles_njv
-surf_dragon
-surf_driftless
-surf_duggywuggy
-surf_eclipse
-surf_eggplant
-surf_elements_beta3
-surf_elites_v2
-surf_epicube 
-surf_ethereal 
-surf_exocube
-surf_exurbia_v2 
-surf_exxak
-surf_faint_fix
-surf_flyin_fortress_fix
-surf_fortum_fix
-surf_funhouse2
-surf_glass7_ksf
-surf_gleam
-surf_gleam2
-surf_graphia
-surf_grassland
-surf_greensway
-surf_guitar_hi
-surf_halloween_tf2
-surf_happyhands
-surf_heaven_njv
-surf_holiday
-surf_hotwheels_fix 
-surf_hurrr
-surf_imex
-surf_ing
-surf_inspire
-surf_interference
-surf_island
-surf_ivory
-surf_journeys
-surf_juturna
-surf_kloakk
-surf_klue 
-surf_korn
-surf_kz_mix_journeys
-surf_kz_protraining
-surf_lies_ksf 
-surf_lodypreview
-surf_lore
-surf_lullaby_ksf
-surf_mellow
-surf_mesa_mine
-surf_mwag_reloaded
-surf_nebula
-surf_network_2009
-surf_noble 
-surf_not_so_disaster
-surf_ny_platinum
-surf_ny_superhappiest_b3
-surf_odyssey
-surf_orthodox
-surf_palais
-surf_palm
-surf_papertown
-surf_pathfinder
-surf_presmon_fix
-surf_progress_fix
-surf_psycho
-surf_reprise
-surf_rez
-surf_rocco_v2
-surf_rookie
-surf_sandtrap 
-surf_sandtrap2 
-surf_saturday 
-surf_seaworld_fix
-surf_semesterbreak
-surf_simpsons_source
-surf_skipalot
-surf_spacejam
-surf_squirrelsonvacation
-surf_summer_ksf
-surf_sunnyhappylove
-surf_syria 
-surf_tensile_njv
-surf_the_gloaming 
-surf_tomb_redone 
-surf_twilight_njv
-surf_waterworks
-surf_wood
-surf_zbig_ksf
-surf_zealand
+surf_004_fix  
+surf_4head  
+surf_6  
+surf_81st_network  
+surf_aeron   
+surf_aether   
+surf_amplitude_encore   
+surf_amplitude_light      
+surf_annoyance_njv     
+surf_aqua_fix     
+surf_ardon_fix    
+surf_beginner2      
+surf_believe       
+surf_beverages_remix    
+surf_bluewall_v2    
+surf_boring      
+surf_cavemissile_ fix      
+surf_classics      
+surf_classics2          
+surf_commune_beta11            
+surf_crzyfrog_reloaded          
+surf_cyberwave        
+surf_delight      
+surf_delusional       
+surf_domain     
+surf_doodles_njv     
+surf_dragon     
+surf_driftless      
+surf_duggywuggy        
+surf_eclipse       
+surf_eggplant       
+surf_elements_beta3         
+surf_elites_v2        
+surf_epicube         
+surf_ethereal         
+surf_exocube      
+surf_exurbia_v2       
+surf_exxak        
+surf_faint_fix      
+surf_flyin_fortress_fix    
+surf_fortum_fix    
+surf_funhouse2   
+surf_glass7_ksf    
+surf_gleam    
+surf_gleam2      
+surf_graphia      
+surf_grassland      
+surf_greensway     
+surf_guitar_hi       
+surf_halloween_tf2      
+surf_happyhands     
+surf_heaven_njv    
+surf_holiday      
+surf_hotwheels_fix       
+surf_hurrr     
+surf_imex    
+surf_ing     
+surf_inspire         
+surf_interference     
+surf_island     
+surf_ivory     
+surf_journeys    
+surf_juturna     
+surf_kloakk     
+surf_klue     
+surf_korn    
+surf_kz_mix_journeys    
+surf_kz_protraining    
+surf_lies_ksf    
+surf_lodypreview   
+surf_lore\
+surf_lullaby_ksf\
+surf_mellow\
+surf_mesa_mine\
+surf_mwag_reloaded\
+surf_nebula\
+surf_network_2009\
+surf_noble\
+surf_not_so_disaster\
+surf_ny_platinum\
+surf_ny_superhappiest_b3\
+surf_odyssey\
+surf_orthodox\
+surf_palais\
+surf_palm\
+surf_papertown\
+surf_pathfinder\
+surf_presmon_fix\
+surf_progress_fix\
+surf_psycho\
+surf_reprise\
+surf_rez\
+surf_rocco_v2\
+surf_rookie\
+surf_sandtrap\
+surf_sandtrap2\ 
+surf_saturday\ 
+surf_seaworld_fix\
+surf_semesterbreak\
+surf_simpsons_source\
+surf_skipalot\
+surf_spacejam\
+surf_squirrelsonvacation\
+surf_summer_ksf\
+surf_sunnyhappylove\
+surf_syria\
+surf_tensile_njv\
+surf_the_gloaming \
+surf_tomb_redone \
+surf_twilight_njv\
+surf_waterworks\
+surf_wood\
+surf_zbig_ksf\
+surf_zealand\
 
 **Tier 3**
 151. surf_1day
