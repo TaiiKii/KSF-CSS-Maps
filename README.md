@@ -147,9 +147,9 @@ surf_rez\
 surf_rocco_v2\
 surf_rookie\
 surf_sandtrap\
-surf_sandtrap2\ 
-surf_saturday\ 
-surf_seaworld_fix\
+surf_sandtrap2      
+surf_saturday     
+surf_seaworld_fix       
 surf_semesterbreak\
 surf_simpsons_source\
 surf_skipalot\
@@ -165,7 +165,7 @@ surf_twilight_njv\
 surf_waterworks\
 surf_wood\
 surf_zbig_ksf\
-surf_zealand\
+surf_zealand
 
 **Tier 3**
 151. surf_1day
