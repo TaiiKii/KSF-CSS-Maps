@@ -168,172 +168,202 @@ surf_zbig_ksf\
 surf_zealand
 
 **Tier 3**
-151. surf_1day
-152. surf_2012_beta12
-153. surf_a 
-154. surf_acp_fix 
-155. surf_adtr_njv
-156. surf_amateur_v2b 
-157. surf_amplitude_apex 
-158. surf_animals_ksf
-159. surf_anthropomorphic
-160. surf_arghmyeyes_retexture
-161. surf_asrown
-162. surf_ataque_final
-163. surf_auroria_ksf 
-164. surf_awakening
-165. surf_b_r_o_x_x_x
-166. surf_bbb 
-167. surf_be_gentle
-168. surf_blackout
-169. surf_bluewinter
-170. surf_bnw_njv
-171. surf_bob
-172. surf_bork_nbv 
-173. surf_calamity_njv 
-174. surf_canisius
-175. surf_canisius2_fix
-176. surf_cartoon 
-177. surf_christmas 
-178. surf_christmas2 
-179. surf_collection_njv 
-180. surf_color_fix
-181. surf_commune_again_beta5 
-182. surf_compact
-183. surf_compulsive_njv
-184. surf_concept
-185. surf_cookiejar 
-186. surf_coralis_ksf 
-187. surf_creation
-188. surf_crystal 
-189. surf_cyka_ksf 
-190. surf_deceptive_final
-191. surf_depressing 
-192. surf_depths 
-193. surf_destiny_fixed
-194. surf_dhyana 
-195. surf_diminsion 
-196. surf_distraction_v2
-197. surf_diverge 
-198. surf_dusk 
-199. surf_dynasty 
-200. surf_ecosystem
-201. surf_elixor 
-202. surf_ember 
-203. surf_entropy_finalv2
-204. surf_epic
-205. surf_eunoia
-206. surf_exogenesis
-207. surf_extremex 
-208. surf_exurbia2 
-209. surf_ezclap 
-210. surf_fast
-211. surf_flatliners 
-212. surf_frequency_njv 
-213. surf_friday 
-214. surf_froots_ksf 
-215. surf_fruits 
-216. surf_fruits2 
-217. surf_furios 
-218. surf_globalchaos 
-219. surf_golden_refix 
-220. surf_happyhands2
-221. surf_happyhands3 
-222. surf_happyhands4 
-223. surf_happyhands5 
-224. surf_healthy 
-225. surf_hob 
-226. surf_huh 
-227. surf_iceworld 
-228. surf_imagine_fix
-229. surf_impact 
-230. surf_inrage
-231. surf_insideout_final
-232. surf_jaqen2
-233. surf_jenocide 
-234. surf_kawaii 
-235. surf_kitsune2 
-236. surf_krow10 
-237. surf_liberation
-238. surf_liberation2 
-239. surf_life_of_cow 
-240. surf_like_this
-241. surf_lithium
-242. surf_lolrevlis2
-243. surf_lost
-244. surf_lost2
-245. surf_low_production
-246. surf_luminaris_refix 
-247. surf_marbleblast_intermediate
-248. surf_mash-up
-249. surf_masonry
-250. surf_meme
-251. surf_mesa_aether
-252. surf_methadone
-253. surf_minimumwage
-254. surf_missing_no
-255. surf_morbid
-256. surf_mushroom_ksf 
-257. surf_mynah_final 
-258. surf_nac
-259. surf_network_2013
-260. surf_networked
-261. surf_ny_advance
-262. surf_ny_momentum2_ksf
-263. surf_oasis
-264. surf_olympics 
-265. surf_omnibus 
-266. surf_oompa_loompa 
-267. surf_oompa2
-268. surf_ori_l 
-269. surf_pagoda
-270. surf_palette_fix
-271. surf_pandemonium_njv 
-272. surf_paranoid_enigma 
-273. surf_parc_colore 
-274. surf_parrot_selector
-275. surf_pavilion
-276. surf_perforated_restored 
-277. surf_petrus 
-278. surf_placid 
-279. surf_plaguelands_beta7a
-280. surf_plethora_fix
-281. surf_porn_fix 
-282. surf_portal_game4 
-283. surf_prosaic 
-284. surf_proximity_final 
-285. surf_psi_fixed
-286. surf_psychedelia 
-287. surf_purgatory
-288. surf_quantum_njv
-289. surf_quasar_final
-290. surf_queen_of_the_ween
-291. surf_quilavar 
-292. surf_rapid 
-293. surf_razer_final 
-294. surf_reactor 
-295. surf_retroartz 
-296. surf_ripper 
-297. surf_roman_v2 
-298. surf_s_t_a_t_i_o_n 
-299. surf_sandbrick 
-300. surf_sanding_ksf
-301. surf_sandstorm2 
-302. surf_sanguine 
-303. surf_sci_fi 
-304. surf_second 
-305. surf_serenity 
-306. surf_sinsane_ez
-307. surf_sky_ages 
-308. surf_smaragd_fix 
-309. surf_smile_njv
-310. surf_spaceship_ksf
-311. surf_spectrum_njv 
-312. surf_stagejuan_ksf 
-313. surf_static 
-314. surf_stick 
-315. surf_stickybutt_alpha
-316. surf_stonework2
-317. surf_strafe 
-318. surf_subway 
-319. surf_swagtoast
+surf_1day  
+surf_2012_beta12   
+surf_a    
+surf_abstinens     
+surf_acp_fix    
+surf_adtr_njv   
+surf_amateur_v2b     
+surf_amplitude_apex     
+surf_animals_ksf     
+surf_anthropomorphic    
+surf_arghmyeyes_retexture     
+surf_asrown   
+surf_ataque_final    
+surf_auroria_ksf     
+surf_awakening    
+surf_b_r_o_x_x_x    
+surf_bbb     
+surf_be_gentle    
+surf_blackout   
+surf_bluewinter    
+surf_bnw_njv   
+surf_bob    
+surf_bork_nbv     
+surf_calamity_njv    
+surf_canisius    
+surf_canisius2_fix   
+surf_cartoon    
+surf_christmas    
+surf_christmas2    
+surf_collection_njv     
+surf_color_fix    
+surf_commune_again_beta5     
+surf_compact   
+surf_compulsive_njv   
+surf_concept    
+surf_cookiejar    
+surf_coralis_ksf    
+surf_creation   
+surf_crystal    
+surf_cyka_ksf    
+surf_deceptive_final   
+surf_depressing    
+surf_depths    
+surf_destiny_fixed    
+surf_dhyana    
+surf_diminsion    
+surf_distraction_v2   
+surf_diverge     
+surf_dusk    
+surf_dynasty    
+surf_ecosystem    
+surf_elixor     
+surf_ember     
+surf_entropy_finalv2    
+surf_epic   
+surf_eunoia   
+surf_exogenesis     
+surf_extremex    
+surf_exurbia2    
+surf_ezclap    
+surf_fast  
+surf_flatliners    
+surf_frequency_njv   
+surf_friday    
+surf_froots_ksf    
+surf_fruits   
+surf_fruits2   
+surf_furios    
+surf_globalchaos   
+surf_golden_refix    
+surf_happyhands2   
+surf_happyhands3   
+surf_happyhands4     
+surf_happyhands5    
+surf_healthy  
+surf_helium_fix     
+surf_hob     
+surf_huh     
+surf_iceworld    
+surf_imagine_fix    
+surf_impact 
+surf_industries    
+surf_inrage   
+surf_insideout_final    
+surf_jaqen2   
+surf_jenocide     
+surf_kawaii    
+surf_kitsune2    
+surf_krow10    
+surf_liberation    
+surf_liberation2    
+surf_life_of_cow
+surf_lighthouse    
+surf_like_this    
+surf_lithium    
+surf_lolrevlis2    
+surf_lost   
+surf_lost2    
+surf_low_production    
+surf_luminaris_refix    
+surf_marbleblast_intermediate   
+surf_mash-up    
+surf_masonry   
+surf_meme     
+surf_mesa_aether    
+surf_methadone   
+surf_milkyway     
+surf_minimumwage    
+surf_missing_no    
+surf_morbid    
+surf_mushroom_ksf     
+surf_mynah_final    
+surf_nac    
+surf_network_2013    
+surf_networked    
+surf_ny_advance    
+surf_ny_momentum2_ksf     
+surf_oasis    
+surf_olympics    
+surf_omnibus     
+surf_oompa_loompa    
+surf_oompa2    
+surf_ori_l    
+surf_pagoda     
+surf_palette_fix    
+surf_pandemonium_njv     
+surf_paranoid_enigma     
+surf_parc_colore     
+surf_parrot_selector     
+surf_pavilion     
+surf_perforated_restored      
+surf_petrus     
+surf_placid     
+surf_plaguelands_beta7a    
+surf_plethora_fix   
+surf_porn_fix      
+surf_portal_game4    
+surf_prosaic     
+surf_proximity_final     
+surf_psi_fixed    
+surf_psychedelia    
+surf_purgatory    
+surf_quantum_njv    
+surf_quasar_final    
+surf_queen_of_the_ween   
+surf_quilavar    
+surf_rapid      
+surf_razer_final    
+surf_reactor 
+surf_resort   
+surf_retroartz   
+surf_ripper     
+surf_roman_v2    
+surf_s_t_a_t_i_o_n    
+surf_sandbrick    
+surf_sanding_ksf   
+surf_sandstorm2     
+surf_sanguine    
+surf_sci_fi    
+surf_second    
+surf_serenity     
+surf_sinsane_ez    
+surf_sky_ages    
+surf_smaragd_fix    
+surf_smile_njv    
+surf_spaceship_ksf   
+surf_spectrum_njv    
+surf_stagejuan_ksf     
+surf_static     
+surf_stick    
+surf_stickybutt_alpha     
+surf_stonework2       
+surf_strafe       
+surf_subway      
+surf_swagtoast      
+surf_sylvan  
+surf_take1   
+surf_tempest    
+surf_tempest2    
+surf_tenacious   
+surf_thembrium_njv   
+surf_togo    
+surf_torque   
+surf_torque2   
+surf_tron_njv 
+surf_tronia_refix    
+surf_two_colour    
+surf_ultimatum    
+surf_unraveled   
+surf_vale   
+surf_vale2    
+surf_vegetables    
+surf_velocity      
+surf_voteforthisone      
+surf_whoknows_ksf   
+surf_wizard   
+surf_zbig2  
+surf_zion    
+surf_zoomboys 
