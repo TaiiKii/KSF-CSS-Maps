@@ -2,11 +2,11 @@
 This is a list of all maps that are on the counter-strike source servers of KSF. The Maps are grouped in Tiers.
 
 **Tier 1**
-surf_ace 
-surf_aircontrol_ksf 
-surf_akai_final 
-surf_and_destroy_fix
-surf_andromeda 
+surf_ace<br/>   
+surf_aircontrol_ksf<br/>   
+surf_akai_final<br/>   
+surf_and_destroy_fix<br/>  
+surf_andromeda <br/>
 surf_aser 
 surf_awp_sk337_v3 
 surf_beginner 
