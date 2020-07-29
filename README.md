@@ -2,55 +2,54 @@
 This is a list of all maps that are on the counter-strike source servers of KSF. The Maps are grouped in Tiers.
 
 **Tier 1**
-surf_ace
-surf_aircontrol_ksf
-surf_akai_final 
-surf_and_destroy_fix
-surf_andromeda
-surf_aser 
-surf_awp_sk337_v3 
-surf_beginner 
-surf_benevolent 
-surf_beyond
-surf_borderlands
-surf_calycate2
-surf_calzone
-surf_chaos_fix
-surf_derpis_ksf
-surf_egypt2
-surf_flow_ksf 
-surf_forbidden_ways_ksf 
-surf_forgotten 
-surf_fornax 
-surf_frost 
-surf_funhouse_v1 
-surf_funhouse_v1 
-surf_garden 
-surf_kitsune 
-surf_leet_xl_beta7z 
-surf_legends
-surf_lessons 
-surf_lovetunnel 
-surf_lux 
-surf_me 
-surf_mesa_fixed
-surf_mom_fix 
-surf_network2008_final
-surf_ny_momentum_v3_1
-surf_nyx 
-surf_pantheon 
-surf_pox
-surf_prelude_fix
-surf_prime_time_r3vamp
-surf_rebel_resistance_final3
-surf_school_fix
-surf_summit 
-surf_sundown
-surf_utopia_njv 
-surf_water_run_ksf 
-surf_whiteout
-surf_year3000 
-surf_zor 
+surf_ace\
+surf_aircontrol_ksf\
+surf_akai_final\
+surf_and_destroy_fix\
+surf_andromeda\
+surf_aser\
+surf_awp_sk337_v3\ 
+surf_beginner\ 
+surf_benevolent\ 
+surf_beyond\
+surf_borderlands\
+surf_calycate2\
+surf_calzone\
+surf_chaos_fix\
+surf_derpis_ksf\
+surf_egypt2\
+surf_flow_ksf \
+surf_forbidden_ways_ksf \
+surf_forgotten  \
+surf_fornax \
+surf_frost \
+surf_funhouse_v1 \
+surf_garden \
+surf_kitsune \
+surf_leet_xl_beta7z \
+surf_legends\
+surf_lessons\
+surf_lovetunnel \ 
+surf_lux \
+surf_me \
+surf_mesa_fixed\
+surf_mom_fix \
+surf_network2008_final \
+surf_ny_momentum_v3_1 \
+surf_nyx \
+surf_pantheon \
+surf_pox\
+surf_prelude_fix\
+surf_prime_time_r3vamp\
+surf_rebel_resistance_final3\
+surf_school_fix\
+surf_summit \
+surf_sundown\
+surf_utopia_njv \
+surf_water_run_ksf \
+surf_whiteout\
+surf_year3000 \
+surf_zor \
 
 **Tier 2**
 surf_004_fix
