@@ -368,15 +368,15 @@ surf_zbig2
 surf_zion    
 surf_zoomboys 
 
-**Tier 4**
-344. surf_25_lighters   
-345. surf_4dimensional   
-346. surf_adventure_final    
-347. surf_airflow   
-348. surf_alend   
+**Tier 4**  
+surf_25_lighters   
+surf_4dimensional   
+surf_adventure_final    
+surf_airflow   
+surf_alend   
 349. surf_ambient_njv    
 
-**Tier 5**
+**Tier 5**  
 surf_zeonine    
 surf_acerbus    
 surf_again_njv    
@@ -445,7 +445,7 @@ surf_tronic_njv
 surf_unreal2    
 surf_z    
 
-**Tier 6**
+**Tier 6**  
 surf_666      
 surf_amaro       
 surf_disaster      
@@ -476,7 +476,7 @@ surf_whynot
 surf_zen  
 surf_zen2   
 
-**Tier 7**
+**Tier 7**  
 surf_devil    
 surf_goliath    
 surf_not_so_zen    
@@ -484,5 +484,5 @@ surf_pls
 surf_raphaello    
 surf_sinsane2 
 
-**Tier 8**   
+**Tier 8**     
 surf_corruption  
