@@ -167,7 +167,7 @@ surf_wood\
 surf_zbig_ksf\
 surf_zealand
 
-**Tier 3**
+**Tier 3**   
 surf_1day  
 surf_2012_beta12   
 surf_a    
@@ -367,3 +367,122 @@ surf_wizard
 surf_zbig2  
 surf_zion    
 surf_zoomboys 
+
+**Tier 4**
+344. surf_25_lighters   
+345. surf_4dimensional   
+346. surf_adventure_final    
+347. surf_airflow   
+348. surf_alend   
+349. surf_ambient_njv    
+
+**Tier 5**
+surf_zeonine    
+surf_acerbus    
+surf_again_njv    
+surf_android_ksf    
+surf_brutalist    
+surf_cinnamon_fix    
+surf_conserve    
+surf_core_refix     
+surf_crush    
+surf_damn    
+surf_diamond_beta1     
+surf_dionysus     
+surf_disneyland     
+surf_dova     
+surf_drift     
+surf_edge     
+surf_elysium     
+surf_elysium2     
+surf_elysium3     
+surf_elysium4      
+surf_entropy_hardmode     
+surf_eon_fix     
+surf_eryr2_fix     
+surf_exocube_h     
+surf_extremex2_5   
+surf_freaky    
+surf_froots2     
+surf_germania    
+surf_gurus_fix    
+surf_helloworld    
+surf_highlands     
+surf_hollow    
+surf_infamous_ksf    
+surf_infected_h    
+surf_innokia   
+surf_izded     
+surf_kairo    
+surf_kalium2     
+surf_legendary    
+surf_loentra    
+surf_lolrevlis     
+surf_map_njv    
+surf_mdrn    
+surf_minecraft_fix     
+surf_misc  
+surf_nesquik    
+surf_nightmare     
+surf_nostromo     
+surf_nyze     
+surf_our    
+surf_primero_fix    
+surf_salient     
+surf_salient2    
+surf_selenka    
+surf_seraph    
+surf_skill8_h     
+surf_stonework3    
+surf_strike    
+surf_technique    
+surf_the_distance    
+surf_timewarp   
+surf_transient    
+surf_trapped    
+surf_treefort    
+surf_tronic_njv   
+surf_unreal2    
+surf_z    
+
+**Tier 6**
+surf_666      
+surf_amaro       
+surf_disaster      
+surf_epiphany   
+surf_exile   
+surf_feudal   
+surf_garden_h  
+surf_hades   
+surf_hades2    
+surf_jumble    
+surf_jusched_beta1    
+surf_looksmodern   
+surf_lt_omnific    
+surf_map_h    
+surf_original    
+surf_royal_fix    
+surf_shodan    
+surf_sinister_evil  
+surf_sinister2    
+surf_sinsane_ksf    
+surf_spectra    
+surf_stonework4    
+surf_syria_again    
+surf_treespam    
+surf_valpect    
+surf_vast    
+surf_whynot   
+surf_zen  
+surf_zen2   
+
+**Tier 7**
+surf_devil    
+surf_goliath    
+surf_not_so_zen    
+surf_pls    
+surf_raphaello    
+surf_sinsane2 
+
+**Tier 8**   
+surf_corruption  
